@@ -46,7 +46,7 @@
 
 ```bash
 # Cloner le dépôt dans un dossier local
-git clone https://github.com/<votre-organisation>/wordpress-docker.git
+git clone https://github.com/reyraph/wordpress-docker.git
 
 # Entrer dans le dossier
 cd wordpress-docker
