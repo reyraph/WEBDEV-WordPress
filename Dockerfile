@@ -3,7 +3,7 @@
 # ═══════════════════════════════════════════════════════════════
 FROM php:8.3-apache
 
-LABEL maintainer="Raphaël – HES-SO Valais"
+LABEL maintainer="Raphaël Rey – HES-SO Valais"
 LABEL description="WordPress 6.9.4, PHP 8.3, Apache, WPGraphQL, AIOSEO Migration, REST API"
 
 # ── Versions ────────────────────────────────────────────────────
