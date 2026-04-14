@@ -52,14 +52,12 @@ git clone https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress.git
 cd wordpress-docker
 ```
 
-> Remplacer `<votre-organisation>` par votre nom d'utilisateur ou organisation GitHub.
-
 ---
 
 ### Option 2 — Télécharger l'archive ZIP (sans Git)
 
 1. Ouvrir la page du dépôt sur GitHub :  
-   `[https://github.com/<votre-organisation>/wordpress-docker](https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress)`
+   `https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress`
 2. Cliquer sur le bouton vert **`<> Code`**
 3. Choisir **Download ZIP**
 4. Décompresser l'archive, puis ouvrir un terminal dans le dossier extrait
