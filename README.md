@@ -52,6 +52,8 @@ git clone https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress.git
 cd wordpress-docker
 ```
 
+> Remplacer `<votre-organisation>` par votre nom d'utilisateur ou organisation GitHub.
+
 ---
 
 ### Option 2 — Télécharger l'archive ZIP (sans Git)
@@ -78,7 +80,7 @@ cd wordpress-docker-main
 
 ```bash
 # Installer gh si nécessaire : https://cli.github.com
-gh repo clone <votre-organisation>/wordpress-docker
+gh repo clone reyraph/HESSO-Vs-64-31-WebDev-WordPress
 cd wordpress-docker
 ```
 
@@ -96,7 +98,7 @@ git commit -m "chore: initial WordPress Docker stack"
 
 # 2. Créer un dépôt vide sur GitHub (sans README ni .gitignore)
 #    puis lier le remote :
-git remote add origin https://github.com/<votre-organisation>/wordpress-docker.git
+git remote add origin https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress.git
 
 # 3. Pousser la branche principale
 git branch -M main
@@ -121,7 +123,7 @@ git push -u origin main
 
 ```bash
 # 1. Cloner le dépôt (voir section "Obtenir le projet depuis GitHub")
-git clone https://github.com/<votre-organisation>/wordpress-docker.git
+git clone https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress.git
 cd wordpress-docker
 
 # 2. Copier et adapter les variables d'environnement
