@@ -49,7 +49,7 @@
 git clone https://github.com/reyraph/HESSO-Vs-64-31-WebDev-WordPress.git
 
 # Entrer dans le dossier
-cd wordpress-docker
+cd HESSO-Vs-64-31-WebDev-WordPress
 ```
 
 > Remplacer `<votre-organisation>` par votre nom d'utilisateur ou organisation GitHub.
